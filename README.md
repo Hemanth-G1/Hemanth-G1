@@ -1,6 +1,6 @@
 # Hi there, I'm Hemanth Sanker 👋
 
-🎓 Data Science Student | Python Developer | Aspiring Data Engineer
+🎓 Data Science Student | Python Developer | Aspiring Data Analyst| Machine Learning Enthusiastic
 
 I am passionate about solving real-world problems using Data Science, Artificial Intelligence, Optimization, and Software Development. I enjoy building projects that combine analytical thinking with practical implementation, ranging from railway traffic optimization systems to web scraping and sustainability-focused web applications.
 
